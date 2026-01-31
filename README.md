@@ -11,7 +11,11 @@ The business needed a clear view of mobile sales performance across brands and t
 - Excel / CSV
 
 ## Dashboard Preview
-![Mobile Sales Dashboard](Screenshot 2026-01-16 172645)
+
+![Uploading Screenshot 2026-01-16 172645.png…]()
+
+
+
 ## Key Insights
 - Identified top-selling mobile brands by revenue
 - Monthly sales trends revealed peak demand periods
